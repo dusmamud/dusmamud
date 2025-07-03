@@ -7,7 +7,7 @@ Currently building cool stuff and trying not to push to `main` on Fridays.
 
 ### 🧠 About Me
 
-- 🛠️ Engineer by title, hacker by heart  
+- 🛠️ Engineer by title, coder by heart  
 - ⚙️ Working with code, sometimes even sleeping with it  
 - 🚀 On a mission to build dope stuff and learn something new every damn day  
 - 📍 Planet Earth (but mostly online)
