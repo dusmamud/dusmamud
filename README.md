@@ -35,7 +35,7 @@
 
 ---
 
-## ⚡ About Me
+## About Me
 
 I am a **Full-Stack & Systems Developer** based in India, passionate about building high-performance developer tools, media automation engines, and scalable backend infrastructure.
 
@@ -47,7 +47,7 @@ I am a **Full-Stack & Systems Developer** based in India, passionate about build
 
 ---
 
-## 🎯 2026 Engineering Roadmap & Focus
+## 2026 Engineering Roadmap & Focus
 
 - 🌐 **Scaling Dusyn:** Unifying core developer tools into a single high-availability API platform at [dusyn.in](https://dusyn.in).
 - 🎬 **Autonomous Media CI/CD:** Building automated GitHub Actions for Reelcraft to render launch reels on every release.
@@ -56,12 +56,12 @@ I am a **Full-Stack & Systems Developer** based in India, passionate about build
 
 ---
 
-## 🔥 Flagship & Featured Projects
+## Flagship & Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/dusmamud/reelcraft">reelcraft</a></h3>
+      <h3><a href="https://github.com/dusmamud/reelcraft">reelcraft</a></h3>
       <p>Automated 9:16 vertical video generator for codebases. Turns repositories into beat-synced 60fps tech reels with mobile safe zones, AST brand extraction, and AI voiceover.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -72,7 +72,7 @@ I am a **Full-Stack & Systems Developer** based in India, passionate about build
       <a href="https://dusmamud.github.io/reelcraft/">Live 3D Showcase →</a> | <a href="https://github.com/dusmamud/reelcraft">GitHub Repo →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>⭐ <a href="https://github.com/dusmamud/youtube-downloader">youtube-downloader</a></h3>
+      <h3><a href="https://github.com/dusmamud/youtube-downloader">youtube-downloader</a></h3>
       <p>Professional YouTube video & audio downloader CLI. Supports playlist extraction, bulk downloads, qualities from 144p to 4K, and MP4/MP3/M4A exports.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -83,7 +83,7 @@ I am a **Full-Stack & Systems Developer** based in India, passionate about build
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎵 <a href="https://github.com/dusmamud/youtube-music-downloader">youtube-music-downloader</a></h3>
+      <h3><a href="https://github.com/dusmamud/youtube-music-downloader">youtube-music-downloader</a></h3>
       <p>Studio-quality audio downloader CLI. Download tracks & playlists in 320kbps MP3, FLAC, M4A with embedded 1:1 square album art, ID3v2.3 tags & Android emulation.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -91,7 +91,7 @@ I am a **Full-Stack & Systems Developer** based in India, passionate about build
       <a href="https://github.com/dusmamud/youtube-music-downloader">View Project →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/dusmamud/dbshift">dbshift</a></h3>
+      <h3><a href="https://github.com/dusmamud/dbshift">dbshift</a></h3>
       <p>Zero-downtime database replication & migration engine designed for CockroachDB, PostgreSQL, and MongoDB Atlas clusters.</p>
       <p>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
@@ -101,7 +101,7 @@ I am a **Full-Stack & Systems Developer** based in India, passionate about build
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎧 <a href="https://github.com/dusmamud/music-metadata-editor">music-metadata-editor</a></h3>
+      <h3><a href="https://github.com/dusmamud/music-metadata-editor">music-metadata-editor</a></h3>
       <p>In-browser audio metadata editor featuring synchronized karaoke LRC lyric editor, HD album art cropping, and LRCLIB integration.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -123,25 +123,27 @@ I am a **Full-Stack & Systems Developer** based in India, passionate about build
 
 ---
 
-## ✍️ Latest Articles & Technical Writing
+## Latest Articles & Technical Writing
 
-- 📝 **[How I Automated 9:16 Vertical Video Generation for Codebases](https://medium.com/@dusmamud)** on Medium & [DEV.to](https://dev.to/dusmamud)  
+- **[How I Automated 9:16 Vertical Video Generation for Codebases](https://medium.com/@dusmamud)** on Medium & [DEV.to](https://dev.to/dusmamud)  
   *An in-depth breakdown of headless Chromium 60fps rendering, audio downbeat alignment, and mobile safe-zone geometry for developer reels.*
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+## Tech Stack & Tooling
 
 <details open>
 <summary><b>Languages</b></summary>
 <br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </details>
 
@@ -151,23 +153,28 @@ I am a **Full-Stack & Systems Developer** based in India, passionate about build
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>Databases & Cloud</b></summary>
+<summary><b>Databases, ORM & Cloud Storage</b></summary>
 <br/>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![Neon](https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=black)
 ![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=for-the-badge&logo=cockroachdb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Drizzle_ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -179,20 +186,25 @@ I am a **Full-Stack & Systems Developer** based in India, passionate about build
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-4A4A55?style=for-the-badge&logo=pnpm&logoColor=F69220)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </details>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dusmamud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dusmamud&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=dusmamud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dusmamud&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" />
 </div>
 
 <div align="center">
@@ -202,7 +214,7 @@ I am a **Full-Stack & Systems Developer** based in India, passionate about build
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
   <img src="https://activity-graph.vercel.app/graph?username=dusmamud&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
@@ -210,7 +222,7 @@ I am a **Full-Stack & Systems Developer** based in India, passionate about build
 
 ---
 
-## 💬 Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 Whether you want to discuss open-source tools, collaborate on a project, or hire for a high-impact engineering role, feel free to reach out:
 
