@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dus%20Mamud&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20Systems%20Engineer%20%7C%20Building%20Dusyn&descAlignY=58&descColor=a78bfa" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dus%20Mamud&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20Dusyn&descAlignY=58&descColor=a78bfa" width="100%" />
 </div>
 
 <br/>
@@ -205,7 +205,7 @@ I am a **Full-Stack & Systems Developer** based in India, passionate about build
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dusmamud&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=dusmamud&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
