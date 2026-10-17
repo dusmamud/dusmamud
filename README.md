@@ -29,7 +29,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=dusmamud&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)](https://github.com/dusmamud)
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=dusmamud.dusmamud)](https://github.com/dusmamud)
 
 </div>
 
